@@ -6,7 +6,7 @@ Really basic touch sensitive keyboard which makes it different from other keyboa
 
 **FOR THE BOM IGNORE THE SCREENSHOTS SINCE THERE ARE FIRST TIME DISCOUNTS THAT I IGNORED**
 **FOR THE BOM MY PRICES ARE IN GPB SINCE I AM IN THE UK**
-yopproximetely:
+I would have said approximetely:
 
 (What I said about my backstory)
 This keyboard works by lightly tapping the keys to generate magnetic fields that play sounds out. Using the sliders and the buttons you can change the pitch or instrument, etc
